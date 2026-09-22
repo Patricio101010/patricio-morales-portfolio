@@ -1,73 +1,90 @@
-# Patricio Morales
+# Patricio Morales Roa · Portafolio
 
-Desarrollador con más de 9 años de experiencia en desarrollo de aplicaciones web, especializado en backend con .NET y frontend con React. Enfocado en construir soluciones robustas, escalables y orientadas al rendimiento.
+Sitio personal de portafolio de **Patricio Morales Roa**, Desarrollador .NET Senior Fullstack con
+11+ años de experiencia en proyectos financieros, especializado en backend .NET (C#) y con
+experiencia práctica en frontend moderno con React.
+
+🔗 **Sitio en vivo:** https://patricio101010.github.io/patricio-morales-portfolio/
 
 ---
 
-## 🚀 Stack Tecnológico
+## 🧱 Sobre este repositorio
+
+Este repo contiene el código fuente del sitio de portafolio (HTML/CSS/JS estático, sin frameworks
+ni build step), publicado con GitHub Pages. Incluye resumen profesional, habilidades técnicas y
+proyectos destacados con enlace a demo en vivo (sin exponer código fuente de esos proyectos).
+
+### Estructura
+
+```
+index.html   Contenido y secciones del sitio
+style.css    Estilos (tema oscuro, responsive)
+script.js    Interacciones mínimas (año del footer)
+```
+
+### Correr en local
+
+```bash
+python -m http.server 4173
+```
+
+Luego abrir [http://localhost:4173](http://localhost:4173).
+
+---
+
+## 🚀 Stack Tecnológico (perfil profesional)
 
 ### Backend
 
-* C# (.NET Framework / .NET Core / .NET 8)
-* Desarrollo de APIs REST
+* C# (.NET Framework / .NET Core / .NET 8/9)
+* APIs REST / SOAP
+* LINQ, Entity Framework
 * Integración de servicios
-* Manejo de lógica de negocio
 
 ### Base de Datos
 
 * SQL Server
-* Consultas complejas
-* Optimización de rendimiento
+* Consultas complejas y optimización de rendimiento
+* Stored Procedures
 
 ### Frontend
 
-* React
+* React (componentes, diseño atómico, consumo de APIs)
 * JavaScript
-* Componentes reutilizables
-* Consumo de APIs
 
 ### Herramientas
 
-* Git / GitLab
-* Visual Studio / VS Code
-* Postman
+* Git / GitLab (CI/CD)
+* Visual Studio / VS Code / Cursor
+* SVN
 
 ---
 
-## 🧩 Proyectos Destacados
+## 🧩 Proyecto Destacado
 
-> (Se irán agregando progresivamente)
+### 🔹 Danke Joyas
+Plataforma de catálogo público y panel administrativo para una joyería, construida desde cero
+(Next.js 16, React 19, TypeScript). Catálogo con filtros dinámicos y búsqueda, ficha de producto
+con galería interactiva, panel admin con CRUD completo, SEO avanzado y suite de pruebas end-to-end.
 
-### 🔹 API de Tickets
-API REST para gestión de tickets de soporte, con filtros, paginación, asignación y manejo de errores.
+👉 [Ver sitio en vivo](https://app-danke-jd371de0f-patricio101010s-projects.vercel.app)
 
-### 🔹 Aplicación React – Mesa de Ayuda
-Interfaz web para administración de tickets, con formularios, validaciones y consumo de APIs.
-
-### 🔹 Carga Masiva de Datos
-Aplicación para carga y validación de archivos Excel con procesamiento estructurado y control de errores por registro.
-
-### 🔹 Tabla Reutilizable
-Componente avanzado con búsqueda, filtros, paginación y exportación de datos, diseñado para múltiples escenarios administrativos.
+> Más proyectos se irán agregando progresivamente.
 
 ---
 
 ## 🧠 Enfoque Técnico
 
-* Diseño de soluciones escalables
+* Diseño de soluciones end-to-end escalables y mantenibles
 * Optimización de consultas y rendimiento
 * Construcción de APIs robustas
-* Desarrollo de interfaces reutilizables
-* Buenas prácticas de arquitectura
-
----
-
-## 📈 Objetivo
-
-Seguir desarrollando soluciones modernas, eficientes y mantenibles, aplicando buenas prácticas y mejorando continuamente en nuevas tecnologías.
+* Modernización progresiva de sistemas legacy
+* Referente técnico y mentoría de equipo
 
 ---
 
 ## 📫 Contacto
 
-* LinkedIn: ([Patricio-morales-roa](https://www.linkedin.com/in/patricio-morales-roa/))
+* Email: [patriciommorales@gmail.com](mailto:patriciommorales@gmail.com)
+* LinkedIn: [patricio-marcelo-morales-roa](https://www.linkedin.com/in/patricio-marcelo-morales-roa)
+* GitHub: [Patricio101010](https://github.com/Patricio101010)
